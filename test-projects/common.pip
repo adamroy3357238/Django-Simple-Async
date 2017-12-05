@@ -1,0 +1,8 @@
+simplejson
+lockfile
+
+# Used for testing
+coverage
+mock
+pylint
+
